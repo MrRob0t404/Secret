@@ -4,10 +4,10 @@ Secret Santa page for the boys &amp; girls
 TODO
 
 pong
-
 snake
 
 snow animation
+design (retro theme)
 
 form
 server
