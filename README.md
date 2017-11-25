@@ -9,5 +9,7 @@ snake
 snow animation
 design (retro theme)
 
-form
+form (name, email, hobbies/likes)
 server
+
+general info (budget, time/date)
