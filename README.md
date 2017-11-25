@@ -3,14 +3,14 @@ Secret Santa page for the boys &amp; girls
 
 TODO
 
-pong . 
-snake . 
+pong  
+snake  
 
-snow animation . 
-design (retro theme) . 
+snow animation  
+design (retro theme)   
 
-form (name, email, hobbies/likes) . 
-server . 
+form (name, email, hobbies/likes)  
+server  
 
-general info (budget, time/date) . 
+general info (budget, time/date)  
 
